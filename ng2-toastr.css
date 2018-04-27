@@ -46,6 +46,12 @@ button.toast-close-button {
     right: 0;
     width: 100%;
 }
+
+.toast-mid-center {
+    top: 50%;
+    right: 50%;
+    width: 100%;
+}
 .toast-bottom-center {
     bottom: 0;
     right: 0;
@@ -67,6 +73,16 @@ button.toast-close-button {
 }
 .toast-top-right {
     top: 12px;
+    right: 12px;
+}
+
+.toast-mid-left {
+    top: 50%;
+    left: 12px;
+}
+
+.toast-mid-right {
+    top: 50%;
     right: 12px;
 }
 .toast-bottom-right {
